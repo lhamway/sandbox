@@ -1,0 +1,2 @@
+this is my text // create a new file
+this is line 2 // append this to the file
